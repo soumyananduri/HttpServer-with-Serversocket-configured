@@ -1,0 +1,5 @@
+org/example/httpserver/config/Configuration.class
+org/example/SimpleHTTPServer.class
+org/example/httpserver/util/Json.class
+org/example/httpserver/config/HttpConfigurationException.class
+org/example/httpserver/config/ConfigurationManager.class
